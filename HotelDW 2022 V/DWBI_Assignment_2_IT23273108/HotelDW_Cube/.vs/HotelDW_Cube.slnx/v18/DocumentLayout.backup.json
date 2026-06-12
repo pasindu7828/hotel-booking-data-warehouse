@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\DSV_Hotel_DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|solutionrelative:HotelDW_Cube\\DSV_Hotel_DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\DSV_Hotel_DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|solutionrelative:HotelDW_Cube\\DSV_Hotel_DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Fact Booking.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|solutionrelative:HotelDW_Cube\\Fact Booking.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|solutionrelative:HotelDW_Cube\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|solutionrelative:HotelDW_Cube\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Room.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|solutionrelative:HotelDW_Cube\\Dim Room.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Meal.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|solutionrelative:HotelDW_Cube\\Dim Meal.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Channel.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|solutionrelative:HotelDW_Cube\\Dim Channel.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Hotel.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF8BF604-21F9-3850-5824-4A25726A2708}|HotelDW_Cube\\HotelDW_Cube.dwproj|solutionrelative:HotelDW_Cube\\Dim Hotel.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fact Booking.dim [Design]",
+              "DocumentMoniker": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Fact Booking.dim",
+              "RelativeDocumentMoniker": "HotelDW_Cube\\Fact Booking.dim",
+              "ToolTip": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Fact Booking.dim [Design]",
+              "RelativeToolTip": "HotelDW_Cube\\Fact Booking.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-01T15:52:03.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DSV_Hotel_DW.dsv [Design]",
+              "DocumentMoniker": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\DSV_Hotel_DW.dsv",
+              "RelativeDocumentMoniker": "HotelDW_Cube\\DSV_Hotel_DW.dsv",
+              "ToolTip": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\DSV_Hotel_DW.dsv [Design]",
+              "RelativeToolTip": "HotelDW_Cube\\DSV_Hotel_DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T08:23:04.191Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DSV_Hotel_DW.cube [Design]",
+              "DocumentMoniker": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\DSV_Hotel_DW.cube",
+              "RelativeDocumentMoniker": "HotelDW_Cube\\DSV_Hotel_DW.cube",
+              "ToolTip": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\DSV_Hotel_DW.cube [Design]",
+              "RelativeToolTip": "HotelDW_Cube\\DSV_Hotel_DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T08:33:54.703Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Date.dim",
+              "RelativeDocumentMoniker": "HotelDW_Cube\\Dim Date.dim",
+              "ToolTip": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Date.dim [Design]",
+              "RelativeToolTip": "HotelDW_Cube\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T08:37:15.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Meal.dim [Design]",
+              "DocumentMoniker": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Meal.dim",
+              "RelativeDocumentMoniker": "HotelDW_Cube\\Dim Meal.dim",
+              "ToolTip": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Meal.dim [Design]",
+              "RelativeToolTip": "HotelDW_Cube\\Dim Meal.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T11:54:33.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "HotelDW_Cube\\Dim Customer.dim",
+              "ToolTip": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "HotelDW_Cube\\Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T11:55:17.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Room.dim [Design]",
+              "DocumentMoniker": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Room.dim",
+              "RelativeDocumentMoniker": "HotelDW_Cube\\Dim Room.dim",
+              "ToolTip": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Room.dim [Design]",
+              "RelativeToolTip": "HotelDW_Cube\\Dim Room.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T11:54:49.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dim Channel.dim [Design]",
+              "DocumentMoniker": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Channel.dim",
+              "RelativeDocumentMoniker": "HotelDW_Cube\\Dim Channel.dim",
+              "ToolTip": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Channel.dim [Design]",
+              "RelativeToolTip": "HotelDW_Cube\\Dim Channel.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T11:53:57.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dim Hotel.dim [Design]",
+              "DocumentMoniker": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Hotel.dim",
+              "RelativeDocumentMoniker": "HotelDW_Cube\\Dim Hotel.dim",
+              "ToolTip": "C:\\HotelDW 2022 V\\DWBI_Assignment_2_IT23273108\\HotelDW_Cube\\HotelDW_Cube\\Dim Hotel.dim [Design]",
+              "RelativeToolTip": "HotelDW_Cube\\Dim Hotel.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T11:52:20.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
